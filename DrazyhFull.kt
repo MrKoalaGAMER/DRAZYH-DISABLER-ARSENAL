@@ -1,4 +1,4 @@
-class FakeLagDisabler : DisablerMode("DrazyhFull") {
+class DrazyhFull : DisablerMode("DrazyhFull") {
     class Timer {
         private var lastExecutionTime: Long = 0
 
